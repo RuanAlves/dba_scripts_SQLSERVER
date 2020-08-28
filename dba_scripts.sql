@@ -293,6 +293,7 @@ WHERE session_id = (89)
 -- marcelo miorelli
 -- 18 de julho de 2017 - Londres (Reino Unido)
 -- testado no sql server 2016
+--https://www.it-swarm.dev/pt/sql/como-vejo-conexoes-ativas-do-sql-server/967409735/    
 --==============================================================================
 USE master
 go
