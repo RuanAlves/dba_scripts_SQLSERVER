@@ -1,0 +1,10 @@
+<!-- SQL SERVER 2014 -->
+X64: https://mega.nz/file/YM5m1KRa#FRD3vdjzVEkAmJ6QOvvRWbyb_2UXC0KXZ43Bqwn-ekA
+X86: https://mega.nz/file/lJB0wLAA#byucPraAA8oUpREd9RxwFSVcyCqkp1Zlxj3DSZk3ha0
+
+<!-- SQL SERVER 2017 -->
+X64: https://mega.nz/file/kNh2AKSD#jeIwJaR_Bl57v2ywdg85AB4xkzRc-f7ROUM7cLw7Qu4
+
+<!-- SQL SERVER 2019 -->
+X64: https://mega.nz/file/9JwzjZZZ#IaZ-PcMyiwm-I8JzM7anuGHU2dXQW_JoEYsAZhs1sQ8
+SSMS: https://mega.nz/file/kRxC2A7B#NHlvksX8svlroqU-4qefePSR307sabWh2dq9QN-UVEk
