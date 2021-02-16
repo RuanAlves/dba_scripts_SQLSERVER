@@ -1,8 +1,8 @@
 # Check List Técnico Implantação
 
-## Processos Básicos que deverão ser testados
+## 1º - Processos Básicos que deverão ser testados
 
-### 1º - Em ambiente de Homologação (Arquivo config.xml com a tag tpAmb = 2):
+### 1.1º - Em ambiente de Homologação (Arquivo config.xml com a tag tpAmb = 2):
 
 * Rotina 101: Cadastrar um novo Cliente (Utilize para gerar CPF: https://www.4devs.com.br/gerador_de_cpf).
 * Rotina 611: Cadastrar Limite de Crédito para o Cliente novo (Pode ser de R$ 5.000,00)
