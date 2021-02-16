@@ -32,3 +32,4 @@
 * **Rotina 802:** Conferir a volta do produto para o estoque (rotina 802) após a devolução da NFSAIDA. Utilizar 'Extrato de Movimentação' e aba 'Posição do Estoque'.
 * **Rotina 307:** Conferir se gerou comissão negativa.
 * **Rotina 305:** Implantador deverá gerar outra Nota, para testar o Cancelamento/Inutilização da mesma. Assim verificando também: comissão, estoque, limite de crédito e títulos.
+* **Rotina 701**: Realizar 'Acerto de Caixa', verificar funcionalidade das abas 'Romaneio' e 'Resumo/Fechamento'.
