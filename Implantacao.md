@@ -18,7 +18,8 @@
 
 ### 1.2º - Realização de Vendas Balcão para Cliente cadastrado
 
-* Rotina 301: Emitir vendas BALCÃO para o Cliente cadastrado. Um dos produtos inseridos para venda, deverá ser o novo Produto Cadastrado.
+* Rotina 301: Emitir venda BALCÃO para o cliente cadastrado. Um dos produtos inseridos para venda, deverá ser o novo produto cadastrado.
+* Rotina 307: Conferir se gerou comissão. No caso verificar qual comissão o vendedor trabalha: CPA ou CPP.
 * Rotina 303: Conferir o Pedido inserido pelo relatório: LASER – ANALÍTICO. (Verificar se LOGO da empresa aparece no relatório)
 * Rotina 305: Transmitir NF-e gerada para o pedido balcão para conferir geração/autorização de XML junto á SEFAZ.
 * Rotina 802: Conferir atualização do estoque para os produtos da venda.
@@ -29,4 +30,5 @@
 * Rotina 608: Efetuar o estorno da baixa realizada anteriormente.
 * OBS: Como houve desdobramento do título para o cliente, o sistema não aceitará o cancelamento da NF-e. Neste caso, implantador deverá realizar uma devolução da NFSAIDA com formulário próprio (rotinas 201, 202). (Deverá verificar a transmissão e autorizada a NFENTRADA em Ambiente de Homologação)
 * Rotina 802: Conferir a volta do produto para o estoque (rotina 802) após a devolução da NFSAIDA. Utilizar 'Extrato de Movimentação' e aba 'Posição do Estoque'.
+* Rotina 307: Conferir se gerou comissão negativa.
 * Rotina 305: Implantador deverá gerar outra Nota, para testar o Cancelamento/Inutilização da mesma. Assim verificando também: comissão, estoque, limite de crédito e títulos.
