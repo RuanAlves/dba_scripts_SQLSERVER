@@ -52,6 +52,7 @@
 
 ### 1.4º - Outras Verificações
 
-* **Rotina 115:**** Verificar se as cobranças corretas estão como **APRAZO**
-* **Rotina 301:**** Realizar pedido BALÇÃO e cancelar o mesmo no botão **Buscar**. Vefificar: comissão, estoque, limite de crédito e títulos.
+* **Rotina 115:**** Verificar se as cobranças corretas estão como '**APRAZO**'
+* **Rotina 301:**** Realizar pedido BALÇÃO e cancelar o mesmo no botão '**BUSCAR**'. Vefificar: comissão, estoque, limite de crédito e títulos.
 * **Rotina 302:**** Realizar cancelamento de um pedido TELEMARKETING. Se o pedido estiver liberado, verificar: estoque e limite de crédito.
+* **Rotina 301:**** Realizar pedido com DAV com e sem reserva, após isso deverá realizar importação de DAV com e sem RESERVA para um pedido **BALÇÃO**.
